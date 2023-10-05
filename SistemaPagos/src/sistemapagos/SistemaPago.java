@@ -1,8 +1,15 @@
 package sistemapagos;
 
-public class SistemaPago {
+/**
+ *
+ * @author Jesus Gabriel Parra Dugarte
+ * @author Elkin Ariel Morillo Quenguan
+ * 
+ */
 
-    // Hecho por Jesus Parra
+public class SistemaPago 
+{
+
     public static void main(String[] args) 
     {
         IPagoProcesable tarjeta = new PagoTarjetaCredito("1122334455667788", 1000.0);

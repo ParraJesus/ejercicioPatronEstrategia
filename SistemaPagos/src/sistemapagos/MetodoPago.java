@@ -2,7 +2,9 @@ package sistemapagos;
 
 /**
  *
- * @author Jesus
+ * @author Jesus Gabriel Parra Dugarte
+ * @author Elkin Ariel Morillo Quenguan
+ * 
  */
 public class MetodoPago 
 {

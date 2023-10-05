@@ -2,7 +2,9 @@ package sistemapagos;
 
 /**
  *
- * @author Jesus Parra
+ * @author Jesus Gabriel Parra Dugarte
+ * @author Elkin Ariel Morillo Quenguan
+ * 
  */
 public interface IPagoProcesable 
 {
